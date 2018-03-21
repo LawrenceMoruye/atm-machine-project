@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1518007497 source:c:\users\lawrence\trizahatm\main.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1518007497 source:c:\users\us1\desktop\atm\catmcode\main.cpp
+	<stdio.h>
+	<stdlib.h>
+
